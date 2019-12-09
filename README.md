@@ -6,7 +6,7 @@ PokemonGO Analysis on Twitter Data
 2. Set your java version to 8 (`export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)`)
 3. Before running multiprocess, desable fork safety (`export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES`)
 
-# REQUIREMENTS(`Preferably`)
+# REQUIREMENTS
 
 Conda
 jupyter notebook
@@ -28,3 +28,12 @@ Time Series Packages
 `pip install ipywidgets`
 `pip install strings`
 `pip install seaborn`
+
+# SEQUENCE(`Preferably`)
+
+1. SparkAllWords.ipynb
+2. pokemon_translator.ipynb
+3. PokemonGo_OnTwitter.ipynb
+4. parallel_all_words.py
+5. parallel_pokemon.py
+6. Preprocess_all_words.ipynb
