@@ -13,7 +13,7 @@ PokemonGO Analysis on Twitter Data
 3. pandas
 4. progressbar (`pip3 install progressbar2`)
 5. Google Translator (`pip3 install googletrans`)
-6. For Spark clustering in Azure HDInsights, find the detailed instructions in `Cluster Instructions.pdf`
+6. For Spark clustering in Azure HDInsights, find the detailed instructions in `Instructions.pdf`
 7. Pygal(`pip install pygal`)
 8. pyLDAvis(`pip install pyldavis`)
 9. Geopy(`pip install geopy`)
