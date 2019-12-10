@@ -31,9 +31,11 @@ PokemonGO Analysis on Twitter Data
 
 # SEQUENCE(`Preferably`)
 
-1. SparkAllWords.ipynb
-2. pokemon_translator.ipynb
-3. PokemonGo_OnTwitter.ipynb
+Follow Instructions.pdf to run the following codes sequently. 
+
+1. SparkAllWords.ipynb (`Using HD Insights`)
+2. pokemon_translator.ipynb (`Using Jupyter Notebook`)
+3. final_code.ipynb (`Using Jupyter Notebook`)
 4. parallel_all_words.py (`python3 parallel_all_words.py` and give relative path of dataset)
 5. parallel_pokemon.py (`python3 parallel_pokemon.py` and give relative path of dataset)
-6. Preprocess_all_words.ipynb
+6. Preprocess_all_words.ipynb (`Using Jupyter Notebook` This will take Approximately 7 Hours)
